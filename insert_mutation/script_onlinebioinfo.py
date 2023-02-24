@@ -1,3 +1,5 @@
+"""Esse programa irá inserir as mutações que estão guardadas no arquivo mutations a sequencia original, e após será feita as comparações."""
+
 import sys
 import re
 
